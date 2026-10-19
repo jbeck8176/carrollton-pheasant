@@ -135,7 +135,7 @@
 <div class="video-overlay" id="video-overlay" role="dialog" aria-modal="true" aria-label="Carrolton Pheasant Preserve field video">
   <div class="video-dialog">
     <button class="video-close" type="button" id="close-video" aria-label="Close video">Close ✕</button>
-    <iframe class="field-video-player" src="https://www.youtube-nocookie.com/embed/6xzZqnIIgh0?si=bxi_JnrBl7jn8t3t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe class="field-video-player" src="https://www.youtube-nocookie.com/embed/6xzZqnIIgh0?si=bxi_JnrBl7jn8t3t&cc_load_policy=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -145,7 +145,7 @@
     const closeButton = document.getElementById('close-video');
     const overlay = document.getElementById('video-overlay');
     const video = document.getElementById('field-video');
-    const youtubeEmbed = 'https://www.youtube-nocookie.com/embed/6xzZqnIIgh0';
+    const youtubeEmbed = 'https://www.youtube-nocookie.com/embed/6xzZqnIIgh0?cc_load_policy=3';
 
     function openVideo() {
       overlay.classList.add('is-open');
