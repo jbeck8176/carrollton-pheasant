@@ -22,3 +22,11 @@
 - Claim/complete Google Business Profile and add actual address, hours, reviews and additional photos.
 - Consider adding substantive hunt packages/pricing and FAQ details when confirmed.
 - Upload optimized images (especially the ~3.4 MB PNG logo) after visual testing.
+
+## Guide and dog update
+- Confirmed preserve-provided guides and their bird dogs for guided hunts. Updated guided hunt card, preparation guidance and relevant FAQs; no unverified training credentials or dog policies added.
+
+## Dog access and credentials update
+- Confirmed that multiple guide dogs are AKC Master Hunters (do not imply every guide dog holds the title).
+- Hunters may bring their own dogs on guided and self-guided hunts.
+- Updated hunt-format descriptions, preparation guidance, and FAQs.
